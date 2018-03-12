@@ -1,2 +1,2 @@
-# ml_project_4
+# Image Recognition using CNN
 Deep Convolutional Neural Network
